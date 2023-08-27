@@ -13,16 +13,16 @@ Esta API de Usuarios es una aplicación básica que utiliza Express como framewo
 
 Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes componentes:
 
-- Descarga e instala [Node.js] (https://nodejs.org)
+- Descarga e instala [Node.js](https://nodejs.org)
 - Descarga e instala [PostgreSQL](https://postgresql.org) u otra base de dato relacionada y ten las credenciales correspondientes
 
 ## Configuración
 
 1. Clona este repositorio en tu máquina local:
 
-  ```bash
-  git clone https://github.com/tu-usuario/tu-repositorio.git
- ```
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
+```
 
 2. Navega hasta el directorio del proyecto:
 
@@ -63,6 +63,6 @@ La API proporciona los siguientes endpoints:
 
 - GET /users: Obtiene todos los usuarios registrados en la base de datos.
 
-Recuerda ajustar la configuración de la aplicación según tus necesidades antes de usarla en producción.
+Puedes usar [Insomnia](https://insomnia.rest/), [Postman](https://www.postman.com/) entre otros según tus preferencias para hacer las consultas y Recuerda ajustar la configuración de la aplicación según tus necesidades antes de usarla en producción.
 
 ## ¡Listo! Ahora puedes comenzar a utilizar la API de Usuarios con Express y Sequelize.
